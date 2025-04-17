@@ -3,7 +3,7 @@
 🎓 BSc Data Science Student at Asansol Engineering College  
 💡 Passionate about Data Science, Arduino Projects, and Machine Learning  
 🚀 Always learning & building cool projects  
-📫 Reach me at: abhishekyadavdata@gmail.com
+📫 Reach me at: abhishekyadav4731@gmail.com
 
 ## 🔧 Tech Stack:
 - Languages: Python, C, C++, SQL  
@@ -28,4 +28,4 @@ Here are some of my favorite and featured works:
 ---
 
 ### 🚀 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LinkedIn] https://www.linkedin.com/in/abhishek-yadav-2149bb28b/]  
